@@ -280,20 +280,9 @@ See [Contributing Guide](contributing.md).
 
 [electron-builder]: https://github.com/electron-userland/electron-builder
 
-[vue]: https://github.com/vuejs/vue-next
-
-[vue-router]: https://github.com/vuejs/vue-router-next/
-
 [typescript]: https://github.com/microsoft/TypeScript/
 
 [playwright]: https://playwright.dev
 
 [vitest]: https://vitest.dev
 
-[vue-tsc]: https://github.com/johnsoncodehk/vue-tsc
-
-[eslint-plugin-vue]: https://github.com/vuejs/eslint-plugin-vue
-
-[cawa-93-github]: https://github.com/cawa-93/
-
-[cawa-93-sponsor]: https://www.patreon.com/Kozack/
