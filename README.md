@@ -22,12 +22,9 @@ The template requires a minimum amount [dependencies](package.json). Only **Vite
 
 ### Project Structure
 
-The structure of this template is very similar to the structure of a monorepo.
-
-The entire source code of the program is divided into three modules (packages) that are bundled each independently:
-
-**packages/main**: Electron main script.
-**packages/preload**: Used in BrowserWindow.webPreferences.preload. 
+The structure of this template is very similar to the structure of a monorepo.  
+**packages/main**: Electron main script.  
+**packages/preload**: Used in BrowserWindow.webPreferences.preload.   
 **packages/renderer**: Electron web page. 
 
 ### Build web resources
